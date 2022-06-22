@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "480133244367",
+    "project_id": "tempauth-7f0e5",
+    "storage_bucket": "tempauth-7f0e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480133244367:android:ca8a7efe0721c940929eba",
+        "android_client_info": {
+          "package_name": "com.example.temp_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480133244367-l0092mf4kutbfasib7lsah02otgdke86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.temp_auth",
+            "certificate_hash": "dd09c23ef8eaff9fb7a3abf66ccec6485ac2a37c"
+          }
+        },
+        {
+          "client_id": "480133244367-90utf54q05n5comg883grh9ahjr6c8gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd2b9OrTPhrlCgPng6W5bF7nyF1qNGZRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480133244367-90utf54q05n5comg883grh9ahjr6c8gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
